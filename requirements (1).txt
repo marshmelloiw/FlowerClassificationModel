@@ -1,9 +1,0 @@
-numpy<2
-fastcore==1.5.29
-fastai==2.7.12
-torch==2.0.1
-torchvision==0.15.2
-torchaudio==2.0.2
-gradio
-pandas
-kagglehub
